@@ -71,7 +71,7 @@ my_boxes = noaa_df %>%
   ggplot(aes(x = year, y = snow, fill = year)) +
   geom_boxplot(alpha = 0.3) +
   labs(
-  title = "Plot showing the distribution of snowfall across the years") +
+  title = "Distribution of snowfall across the years") +
   theme(legend.position = "none", 
         axis.text.x = element_text(angle = 45, hjust = 1, size = 7))
 
