@@ -1,17 +1,19 @@
 ---
-title: "Holy cow!"
+title: "Welcome to my personal website"
 ---
 
-### I have a webpage!
+My name is Yaa Asantewaa Kafui Klu (Ph.D.) and I committed to research and teaching in the aread of food, nutrition and public health.
 
-And I can put all kinds of stuff on it!
-
-I can add additional test
-
-### Add some links
 
 I like to [watch movies](https://irokotv.com/dashboard)
 
 ## Picture of myself
 
 <img src="images/IMG-20180312-WA0021.jpg" style="width:75%">
+
+### I can add a code
+
+
+
+
+
