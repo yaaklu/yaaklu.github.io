@@ -10,7 +10,7 @@ navbar:
     - text: "Curriculum Vitae"
       href: CV.html
   left:
-    - text: "NY NOAA"
+    - text: "NY NOAA Dataset"
       href: Dashboard.html
 output:
   html_document:
