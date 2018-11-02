@@ -8,7 +8,7 @@ navbar:
     - icon: fa-github fa-lg
       href: http://github.com/yaaklu/
     - text: "Curriculum Vitae"
-      href: cv.html
+      href: CV.html
 output:
   html_document:
     theme: sandstone
