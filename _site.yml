@@ -11,7 +11,7 @@ navbar:
       href: CV.html
   left:
     - text: "NY NOAA Dataset"
-      href: Dashboard.html
+      href: describe_NY_NOAA.html
 output:
   html_document:
     theme: cerulean

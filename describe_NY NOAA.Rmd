@@ -1,0 +1,15 @@
+---
+title: ""
+---
+
+<br></br>
+
+<detail>
+
+### New York Weather Data by The National Oceanic and Atmospheric Administration
+
+</detail>
+
+The National Oceanic and Atmospheric Administration collects and publishes data on atmospheric conditions as well data on the oceans, and major waterways.
+
+Click [here](Dashboard.html) to view selected charts.
