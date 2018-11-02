@@ -3,12 +3,12 @@ output_dir: "."
 navbar:
   title: "Home"
   right:
-    - text: "Google"
-      href: http://www.google.com/
     - icon: fa-envelope fa-lg
       href: mailto:yaaklustar@gmail.com>
     - icon: fa-github fa-lg
       href: http://github.com/yaaklu/
+    - text: "CV"
+      href: http://www.google.com/
 output:
   html_document:
     theme: flatly
