@@ -1,15 +1,15 @@
 ---
-title: "Welcome to my personal website"
+title: "Yaa Asantewaa Kafui Klu (Ph.D.)"
 ---
 
-My name is Yaa Asantewaa Kafui Klu (Ph.D.) and I committed to research and teaching in the aread of food, nutrition and public health.
+I am a Master of Public Health Candidate in Environmental Health Science (Molecular Epidemiology Certificate). I am committed to research and teaching in the aread of food, nutrition and public health.
 
 
 I like to [watch movies](https://irokotv.com/dashboard)
 
-## Picture of myself
 
-<img src="images/IMG-20180312-WA0021.jpg" style="width:75%">
+
+<img src="images/2018-03-22-17-02-14-555.jpg" style="width:75%">
 
 ### I can add a code
 
