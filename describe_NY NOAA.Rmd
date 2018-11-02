@@ -6,10 +6,10 @@ title: ""
 
 <detail>
 
-### New York Weather Data by The National Oceanic and Atmospheric Administration
+#### New York Weather Data by The National Oceanic and Atmospheric Administration
 
 </detail>
 
-The National Oceanic and Atmospheric Administration collects and publishes data on atmospheric conditions, and conditions of oceans and major waterways in the United States.
+The National Oceanic and Atmospheric Administration (NOAA) collects and publishes data on atmospheric conditions, and conditions of oceans and major waterways in the United States. Additonally, NOAA provides public access to summary statistics on weather conditions across the globe. 
 
-Click [here](Dashboard.html) to view selected charts.
+Selected graphs showing weather conditions in New York State between the year 1981 and 2010 can be found [here](Dashboard.html).

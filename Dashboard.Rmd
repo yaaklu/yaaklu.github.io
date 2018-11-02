@@ -1,5 +1,5 @@
 ---
-title: "NY NOAA Graphs"
+title: "NY NOAA Graphs Showing Summary Statistics of Weather Conditions from 1981 to 2010"
 output: 
   flexdashboard::flex_dashboard:
     orientation: columns
@@ -41,7 +41,7 @@ weather = noaa_df %>%
   facet_grid(~month) +
   geom_boxplot() +
   labs(
-  title = "Two-panel plot showing the average max temperature in Jan and July") +
+  title = "Average maximum temperatures in Jan and July") +
   theme(legend.position = "none", 
         axis.text.x = element_text(angle = 45, hjust = 1, size = 5))
 
@@ -57,7 +57,7 @@ Column {data-width=350}
 my_hex = ggplot(noaa_df, aes(x = tmin, y = tmax)) +
   geom_hex(aes()) +
   labs(
-  title = "Plot showing tmax vs tmin") +
+  title = "Maximum and minimum temperatures") +
   theme(legend.position = "left")
 
 ggplotly(my_hex)
