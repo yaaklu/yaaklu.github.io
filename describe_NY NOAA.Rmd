@@ -10,6 +10,6 @@ title: ""
 
 </detail>
 
-The National Oceanic and Atmospheric Administration collects and publishes data on atmospheric conditions as well data on the oceans, and major waterways.
+The National Oceanic and Atmospheric Administration collects and publishes data on atmospheric conditions, and conditions of oceans and major waterways in the United States.
 
 Click [here](Dashboard.html) to view selected charts.
