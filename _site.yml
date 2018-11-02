@@ -11,6 +11,6 @@ navbar:
       href: http://www.google.com/
 output:
   html_document:
-    theme: flatly
+    theme: sandstone
   
   
