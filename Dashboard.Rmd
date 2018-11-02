@@ -1,5 +1,5 @@
 ---
-title: "NY NOAA Graphs Showing Summary Statistics of Weather Conditions from 1981 to 2010"
+title: "Graphs Showing Summary Statistics of Weather Conditions in New York State from 1981 to 2010"
 output: 
   flexdashboard::flex_dashboard:
     orientation: columns
@@ -71,7 +71,7 @@ my_boxes = noaa_df %>%
   ggplot(aes(x = year, y = snow, fill = year)) +
   geom_boxplot(alpha = 0.3) +
   labs(
-  title = "Distribution of snowfall across the years") +
+  title = "Distribution of snowfall") +
   theme(legend.position = "none", 
         axis.text.x = element_text(angle = 45, hjust = 1, size = 7))
 
