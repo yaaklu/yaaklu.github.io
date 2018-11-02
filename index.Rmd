@@ -2,9 +2,14 @@
 title: ""
 ---
 
+
+<br>
+</br>
+
 ### Yaa Asantewaa Kafui Klu (Ph.D.)
 
-I am a Master of Public Health Candidate in Environmental Health Sciences (Molecular Epidemiology Certificate). I am committed to research and teaching in the aread of food, nutrition and public health.
+I am a Master of Public Health Candidate in Environmental Health Sciences (Molecular Epidemiology Certificate). 
+I am committed to research and teaching in the aread of food, nutrition and public health.
 
 
 <img src="images/2018-03-22-17-02-14-555.jpg" style="width:75%">
