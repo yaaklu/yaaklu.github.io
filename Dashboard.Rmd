@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "NY NOAA Graphs"
 output: 
   flexdashboard::flex_dashboard:
     orientation: columns
@@ -24,8 +24,6 @@ noaa_df = ny_noaa %>% sample_n(10000) %>%
          tmax = (as.numeric(tmax))/10,
          tmin = (as.numeric(tmin))/10,
          prcp = prcp/10)
-
-
 ```
 
 
@@ -41,6 +39,8 @@ weather = noaa_df %>%
   ggplot(aes(x = year, y = tmax, color = month)) +
   facet_grid(~month) +
   geom_boxplot() +
+  labs(
+  title = "A two-panel plot showing the average max temperature in January and in July in each station across years") +
   theme(legend.position = "none", 
         axis.text.x = element_text(angle = 45, hjust = 1, size = 5))
 
@@ -55,6 +55,8 @@ Column {data-width=350}
 ```{r}
 my_hex = ggplot(noaa_df, aes(x = tmin, y = tmax)) +
   geom_hex(aes()) +
+  labs(
+  title = "A plot showing  tmax vs tmin for the full dataset") +
   theme(legend.position = "left")
 
 ggplotly(my_hex)
@@ -67,6 +69,8 @@ my_boxes = noaa_df %>%
   filter(snow > 0 & snow < 100) %>% 
   ggplot(aes(x = year, y = snow, fill = year)) +
   geom_boxplot(alpha = 0.3) +
+  labs(
+  title = "A plot showing the distribution of snowfall values greater than 0 and less than 100 separately by year") +
   theme(legend.position = "none", 
         axis.text.x = element_text(angle = 45, hjust = 1, size = 7))
 

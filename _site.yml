@@ -9,6 +9,9 @@ navbar:
       href: http://github.com/yaaklu/
     - text: "Curriculum Vitae"
       href: CV.html
+  left:
+    - text: "NY NOAA"
+      href: Dashboard.html
 output:
   html_document:
     theme: sandstone
