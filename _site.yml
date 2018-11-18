@@ -4,7 +4,7 @@ navbar:
   title: "Home"
   right:
     - icon: fa-envelope fa-lg
-      href: mailto:kafuiklu@outlok.com>
+      href: mailto:kafuiklu@outlook.com>
     - icon: fa-github fa-lg
       href: http://github.com/yaaklu/
     - text: "Curriculum Vitae"
